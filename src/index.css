@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700;800;900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-kanit: "Kanit", sans-serif;
+}
+
+@layer base {
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  html, body, #root {
+    background-color: #0c0c0c;
+    font-family: var(--font-kanit);
+    color: #d7e2ea;
+  }
+}
+
+@layer components {
+  .hero-heading {
+    color: transparent;
+    background: linear-gradient(180deg, #646973 0%, #BBCCD7 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+  }
+}
+
+.perspective-1000 {
+  perspective: 1000px;
+}
