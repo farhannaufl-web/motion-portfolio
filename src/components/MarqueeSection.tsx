@@ -20,7 +20,7 @@ const IMAGES = [
   "https://res.cloudinary.com/drznlxfuv/video/upload/q_auto,f_auto/NEW_YEAR_MUM_wsruu6.mp4",
   "https://res.cloudinary.com/drznlxfuv/video/upload/q_auto,f_auto/Mindmatters_uk1z30.mp4",
   "https://res.cloudinary.com/drznlxfuv/video/upload/q_auto,f_auto/Youtube_SADARI_qu20it.mp4",
-  "https://motionsites.ai/assets/hero-luminex-preview-CxOP7ce6.gif",
+  "https://res.cloudinary.com/drznlxfuv/video/upload/q_auto,f_auto/Webinar_Ai_Care_xegkmx.mp4",
   "https://motionsites.ai/assets/hero-celestia-preview-0yO3jXO8.gif",
 ];
 
